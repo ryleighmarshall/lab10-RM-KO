@@ -40,5 +40,5 @@ def square_root(a):
         raise ValueError
     return math.sqrt(a)
 
-def hypot(a, b):
+def hypotnuse(a, b):
     return math.hypot(a, b)
