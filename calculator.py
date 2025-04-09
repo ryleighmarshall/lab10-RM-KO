@@ -1,3 +1,7 @@
+#https://github.com/ryleighmarshall/lab10-RM-KO
+#Partner 1: Kalista Oberes
+#Partner 2: Ryleigh Marshall
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
